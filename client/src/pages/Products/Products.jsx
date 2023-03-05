@@ -1,4 +1,5 @@
 import React from 'react'
+import './Products.scss'
 
 const Products = () => {
   return (
@@ -7,3 +8,4 @@ const Products = () => {
 }
 
 export default Products
+
